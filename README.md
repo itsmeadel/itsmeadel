@@ -1,5 +1,5 @@
  Hi there 👋 
- I'm <b>Adele Diola </b> as my nickname. I am pursuing Full Staff Development. I currently have experience in both UI/UX Design and front-end development. </br>
+ I'm <b>Adele Diola </b> as my nickname. I am pursuing Full Stack Development. I currently have experience in both UI/UX Design and front-end development. </br>
 
 
 
